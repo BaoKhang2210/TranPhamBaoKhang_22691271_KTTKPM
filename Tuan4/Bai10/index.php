@@ -1,0 +1,1 @@
+<?php echo "<h1>PHP đang chạy trong Docker!</h1>"; phpinfo(); ?>
